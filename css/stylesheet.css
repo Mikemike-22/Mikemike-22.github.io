@@ -5,4 +5,7 @@
   }
   #ik{
     color: grey;
+    border: 10px  solid gray;
+    padding: 8px;
+    margin: 10px
   }
