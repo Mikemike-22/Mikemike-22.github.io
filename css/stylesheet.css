@@ -4,8 +4,11 @@
   padding: 20px;
   }
   #ik{
-    color: grey;
-    border: 10px  solid gray;
+    color: black;
+    border: 10px  solid black;
     padding: 8px;
     margin: 10px
+  }
+  body{
+    background-color: grey;
   }
