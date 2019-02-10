@@ -22,3 +22,9 @@
   color:white;
   border-color: black;
 }
+@@media screen and (min-width:300px;) {
+      body{
+        background-color: maroon;
+        color: white;
+      }
+}
