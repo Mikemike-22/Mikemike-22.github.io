@@ -1,7 +1,7 @@
 .column{
   float: left;
   width: 300px;
-  padding: 20px;
+  padding: 40px;
   }
   #ik{
     color: black;
@@ -15,8 +15,8 @@
 #footer{
   background-color: black;
   color: white;
-  text-align: center;
-  padding: 10px;
+  text-align: left;
+  padding: 0.02px;
 }
 .f{
   color:white;
